@@ -2,7 +2,9 @@
 
 int main()
 {
+	int x;
 
+	printf("G");
 
 
 
