@@ -4,10 +4,8 @@ int main()
 {
 	int x;
 
-	printf("G");
-
-
-
+	printf("AAAAA\n");
+	printf("BB\n");
 
 	return 0;
 }
